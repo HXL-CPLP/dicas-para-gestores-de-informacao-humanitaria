@@ -1,2 +1,3 @@
-# im-tips
-Quick tips to help humanitarian information managers in the field
+<h1>50 HUMANITARIAN IM TIPS<h1/>
+<h2>DICAS RÁPIDAS PARA AJUDAR OS GESTORES DE INFORMAÇÕES HUMANITÁRIAS EM CAMPO<h2>
+
